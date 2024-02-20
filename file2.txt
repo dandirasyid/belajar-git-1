@@ -1,1 +1,3 @@
 Ini merupakan file2.txt
+
+Hobi saya adalah berolah-raga
